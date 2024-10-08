@@ -62,9 +62,9 @@ This Telegram bot allows users to get real-time cryptocurrency prices and market
 
 2. Open Telegram and search for your bot, then start interacting with it by using the following commands:
 
-    - `/price <coin_symbol>`: Get the current price of a specific cryptocurrency.
-    - `/marketcap <coin_symbol>`: Retrieve the market cap of the coin.
-    - `/trends`: Get the latest market trends for top cryptocurrencies.
+    - `/start `: to start with bot .
+    - `/coin <coin_symbol>`: Retrieve the market cap of the coin with all information .
+   
 
 ## Technologies
 
