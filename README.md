@@ -71,7 +71,7 @@ This Telegram bot allows users to get real-time cryptocurrency prices and market
 - **Node.js**: Backend
 - **Telegram Bot API**: For interacting with Telegram
 - **CoinMarketCap API**: To fetch real-time crypto data
-- **React**: Frontend framework (if applicable)
+
   
 ## Contributing
 
